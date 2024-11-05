@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Investimentos UTFPR</string>
     <string name="app_title">Simulador de Investimentos UTFPR</string>
     <string name="tv_valor_atingir">Valor a atingir (R$):</string>
     <string name="tv_dep_inicial">Depósito inicial (R$):</string>

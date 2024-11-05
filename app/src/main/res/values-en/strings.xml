@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">UTFPR Investment Simulator</string>
+    <string name="app_name">UTFPR Investments</string>
+    <string name="tv_valor_atingir">Amount to be achieved (R$):</string>
+    <string name="tv_dep_inicial">Initial deposit (R$):</string>
+    <string name="tv_aporte_mensal">Monthly contribution (R$):</string>
+    <string name="tv_rend_mensal">Monthly Yield (%):</string>
+    <string name="btnCalcular">Calculate</string>
+    <string name="btnLimpar">Clear</string>
+    <string name="app_title2">Evolution of Investments:</string>
+    <string name="btnFechar">Close</string>
+    <string name="tab_atrb_mes">Month</string>
+    <string name="tab_atrb_juros">Interest</string>
+    <string name="tab_atrb_reserva">Deposit</string>
+    <string name="tab_atrb_deposito">Reserve</string>
+    <string name="campos_limpos">Clean fields!</string>
+    <string name="close_message">Do you want to close the application?</string>
+</resources>
