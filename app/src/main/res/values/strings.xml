@@ -15,4 +15,9 @@
     <string name="tab_atrb_reserva">Reserva</string>
     <string name="campos_limpos">Campos limpos!</string>
     <string name="close_message">Você deseja fechar a aplicação?</string>
+    <string name="campos_invalidos">Campos inválidos!</string>
+    <string name="valor_atingir_invalido">Valor a ser atingido deve ser no mínimo R$10.000,00</string>
+    <string name="deposito_invalido">O depósito inicial está incorreto e não pode ser negativo</string>
+    <string name="aporte_invalido">O aporte está incorreto e não pode ser negativo</string>
+    <string name="juros_invalido">O rendimento mensal está incorreto e não pode ser negativo</string>
 </resources>

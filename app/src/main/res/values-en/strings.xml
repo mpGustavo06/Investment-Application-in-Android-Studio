@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_title">UTFPR Investment Simulator</string>
+    <string name="campos_invalidos">Invalid fields!</string>
     <string name="app_name">UTFPR Investments</string>
     <string name="tv_valor_atingir">Amount to be achieved (R$):</string>
     <string name="tv_dep_inicial">Initial deposit (R$):</string>
@@ -16,4 +17,8 @@
     <string name="tab_atrb_deposito">Reserve</string>
     <string name="campos_limpos">Clean fields!</string>
     <string name="close_message">Do you want to close the application?</string>
+    <string name="valor_atingir_invalido">The amount to be reached must be at least R$10,000.00</string>
+    <string name="deposito_invalido">The initial deposit is incorrect and cannot be negative</string>
+    <string name="aporte_invalido">The contribution is incorrect and cannot be negative</string>
+    <string name="juros_invalido">The monthly income is incorrect and cannot be negative</string>
 </resources>
