@@ -101,8 +101,14 @@ public class MainActivity extends AppCompatActivity {
         int mes = 0;
 
         while (montanteTotal < valorAtingir) {
-            montanteTotal += (montanteTotal*(juros/100)) + aporteMensal;
-            mes++;
+            if (mes == 0) {
+                montanteTotal += montanteTotal*(juros/100);
+                mes++;
+            }
+            else {
+                montanteTotal += (montanteTotal*(juros/100)) + aporteMensal;
+                mes++;
+            }
 
             Investment newItem = new Investment(mes, juros, aporteMensal, montanteTotal);
 
